@@ -48,3 +48,4 @@ look at the online course [here][0]
 the complete coffee shop sample in the ./coffee-shop-complete dir.
 
 [0]: http://www.pythonschool.net/databases/introduction-to-databases/
+[1]: https://www.youtube.com/watch?v=pd-0G0MigUA (YouTube)
