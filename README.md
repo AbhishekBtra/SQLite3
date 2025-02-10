@@ -44,6 +44,7 @@ Just read the other python source files to know more details.
 # Online Tutorials
 
 look at the online course [here][0]
+look at YouTube Tutorial [here][1]
 
 the complete coffee shop sample in the ./coffee-shop-complete dir.
 
